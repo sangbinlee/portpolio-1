@@ -51,3 +51,17 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
     https://tailwindcss.com/docs/guides/nextjs
     npm install -D tailwindcss postcss autoprefixer
     npx tailwindcss init -p"# portpolio-1" 
+
+
+# npx tsc --init
+# npm install prisma --save-dev
+# npx prisma init --datasource-provider postgresql
+# npx prisma migrate dev --name init
+# npx ts-node script.ts
+# npm i styled-components
+# 
+# 
+# 
+# 
+# 
+
